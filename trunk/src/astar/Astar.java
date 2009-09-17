@@ -3,8 +3,10 @@ package astar;
 import java.util.ArrayList;
 
 /**
- *
- * @author cristian
+ * Implementación del algoritmo A* con Java.
+ * Dada una matriz de nodos (NodoAstar) e indicando cuál es el nodo de salida
+ * y el nodo de llegada, calcula el mejor camino posible que hay que seguir
+ * evitando los obstáculos (es decir, nodos no transitables).
  */
 public class Astar
 {
